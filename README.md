@@ -35,5 +35,5 @@ CNN Evaluation: The model achieved 75% test accuracy with good performance on at
 - `single_files_csv.py`: Code for converting files to CSV format.
 - `merged_files.py`: Code for merging files from the `single_files_csv` folder and integrating with SNOMED CT codes.
 - `models.py`: Code for EDA and models used in the project.
-- DS 504 – Final Project Report.pdf
+- Project Report.pdf
 
