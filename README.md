@@ -44,3 +44,9 @@ This plot shows the evaluation of the CNN model, including training/validation l
 - `models.py`: Code for EDA and models used in the project.
 - Project Report.pdf
 
+## Contributors
+- Antonela Tamagnini
+- Alexander Mitchell
+- Arsalan Saif
+- Aayush Sangani
+- Tanish Kandivlikar
