@@ -8,7 +8,6 @@ This project was completed as part of the Big Data Analytics (CS 586) course in 
 ## Technologies Used
 
 - Python
-- PyTorch
 - TensorFlow / Keras
 - NumPy, pandas
 - Scikit-learn
